@@ -29,7 +29,7 @@ with open("MyFile2.txt","w") as fp1:
     fp1.write(x)
 ```
 ### OUTPUT:
-![output](k.png)
+![output](c.png)
 ![output](m.png)
 
 ## RESULT:
